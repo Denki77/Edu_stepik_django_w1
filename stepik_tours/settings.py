@@ -124,4 +124,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-DIRECTOR = 'Alan Smithee'
+DIRECTOR = 'Deni'
